@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Google credentials
+google-credentials.json
+credentials.json
+token.json
+google-token.json
+
+# Binaries
+node
+npx
